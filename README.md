@@ -4,11 +4,11 @@ Thrift collect aims to serve as the digital alternative to our local thrift coll
 
 ## Roles
 
-- Moderators
-- Users
+- Admin
+- User
 
 ## Users Stories
-#### AS a user 
+#### As a user 
 
 - I can create a Thrift Collect account
 - I can create a collection group
